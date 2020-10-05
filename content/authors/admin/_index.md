@@ -16,6 +16,8 @@ interests:
   - Machine Learning
   - Applied Mathematics
   - Numerical Analysis
+  - Scientific Computing
+  - Ophthalmology
 social:
   - icon: envelope
     icon_pack: fas
