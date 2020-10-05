@@ -31,15 +31,15 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mathematics
+      institution: ETH Zurich
+      year: 2018
+    - course: MSc in Mathematical Modelling
+      institution: University of Limerick
+      year: 2015
+    - course: BSc in Computer Science
+      institution: National University of Ireland Galway
+      year: 2018
 user_groups:
   - Researchers
   - Visitors
