@@ -3,8 +3,9 @@ title: Brian Fitzpatrick
 role: Postdoctoral Research Fellow
 avatar_filename: brian_fitzpatrick.jpg
 organizations:
-  - name: Stanford University
+  - name: TU Dublin
     url: ""
+  - name: Centre for Eye Research Ireland
 superuser: true
 authors:
   - admin
