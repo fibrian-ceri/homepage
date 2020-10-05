@@ -28,9 +28,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iAstImQAAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: ai
-    link: https://www.linkedin.com/in/bfitzp
 education:
   courses:
     - course: PhD in Mathematics
