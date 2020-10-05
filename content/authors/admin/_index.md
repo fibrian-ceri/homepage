@@ -1,12 +1,13 @@
 ---
+title: Brian Fitzpatrick
+role: Postdoctoral Research Fellow
+avatar_filename: brian_fitzpatrick.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Brian Fitzpatrick
-role: Postdoctoral Research Fellow
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
